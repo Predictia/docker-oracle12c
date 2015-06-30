@@ -18,7 +18,7 @@ Optional: if you are using [Vagrant](https://www.vagrantup.com/), you can use th
 ```shell
 git clone https://github.com/bofm/docker-oracle12c.git
 cd docker-oracle12c
-make all
+sudo make full
 ```
 
 ## Usage

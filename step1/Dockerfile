@@ -1,4 +1,4 @@
-FROM oraclelinux
+FROM oraclelinux:6.6
 MAINTAINER bofm
 
 RUN yum -y install oracle-rdbms-server-12cR1-preinstall.x86_64 && \
